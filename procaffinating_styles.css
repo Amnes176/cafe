@@ -1,0 +1,155 @@
+/* Procaffinating Café Stylesheet */
+
+/* Global */
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    background: #d6b065;
+    color: #352a2a;
+    scroll-behavior: smooth;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Navbar */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgba(0,0,0,0.7);
+    backdrop-filter: blur(6px);
+    padding: 15px 0;
+    text-align: center;
+    z-index: 1000;
+    animation: fadeIn 1.2s ease;
+}
+nav a {
+    color: #fff;
+    margin: 0 20px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+nav a:hover {
+    color: #dba46b;
+}
+
+/* Header */
+header {
+    background: url('images/cappuccino-header.png') center/cover no-repeat;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    text-shadow: 0 4px 10px rgba(0,0,0,0.7);
+    animation: fadeIn 1.5s ease;
+}
+header h1 {
+    font-size: 4rem;
+    margin: 0;
+    animation: fadeIn 2.2s ease;
+}
+header p {
+    font-size: 1.4rem;
+    max-width: 600px;
+    text-align: center;
+    animation: fadeIn 2.6s ease;
+}
+
+/* Sections */
+section {
+    padding: 80px 15%;
+    animation: fadeIn 1.2s ease;
+}
+#about h2, #menu h2, #contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#about p {
+    font-size: 1.2rem;
+    line-height: 1.7;
+    text-align: center;
+}
+
+/* Menu Grid */
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 30px;
+}
+.menu-item {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: 0.3s ease;
+}
+.menu-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+    background: rgb(135, 211, 135);
+}
+.menu-item img {
+    width: 100%;
+    border-radius: 10px;
+    height: 150px;
+    object-fit: cover;
+}
+.menu-item h3 {
+    margin: 15px 0 10px;
+}
+.menu-item p {
+    font-size: 0.9rem;
+    color: #6b5c5c;
+}
+
+/* Contact form */
+#contact form {
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+#contact input, #contact textarea {
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 10px;
+    border: 1px solid #fffb00;
+    font-size: 1rem;
+    transition: 0.3s;
+}
+#contact input:focus, #contact textarea:focus {
+    border-color: #dba46b;
+    outline: none;
+    transform: scale(1.02);
+}
+#contact button {
+    padding: 15px;
+    background: #3b2f2f;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#contact button:hover {
+    background: #7fcf49;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #3b2f2f;
+    color: white;
+    margin-top: 50px;
+}

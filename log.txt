@@ -1,0 +1,132 @@
+[2025-11-25 10:25:12.900] [che] [debug] /home/chris/.config/cherrytree/config.cfg parsed
+[2025-11-25 10:25:13.083] [che] [debug] autosave on 1 min
+[2025-11-25 10:25:13.291] [che] [debug] Node 26 > 172.16.98.81
+[2025-11-25 10:25:35.853] [che] [debug] Node 27 > 172.16.121.102
+[2025-11-25 10:26:13.675] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:26:13.680] [che] [debug] autosave needed
+[2025-11-25 10:27:13.774] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:27:13.774] [che] [debug] autosave no need
+[2025-11-25 10:28:13.774] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:28:13.774] [che] [debug] autosave no need
+[2025-11-25 10:28:33.305] [che] [debug] Node 24 > about
+[2025-11-25 10:29:13.698] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:29:13.698] [che] [debug] autosave needed
+[2025-11-25 10:30:08.152] [che] [debug] Node 27 > 172.16.121.102
+[2025-11-25 10:30:13.674] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:30:13.675] [che] [debug] autosave needed
+[2025-11-25 10:31:13.677] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:31:13.677] [che] [debug] autosave no need
+[2025-11-25 10:32:13.774] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:32:13.774] [che] [debug] autosave no need
+[2025-11-25 10:33:13.674] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:33:13.675] [che] [debug] autosave no need
+[2025-11-25 10:34:13.698] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:34:13.698] [che] [debug] autosave no need
+[2025-11-25 10:35:13.774] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:35:13.774] [che] [debug] autosave no need
+[2025-11-25 10:36:13.702] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:36:13.702] [che] [debug] autosave no need
+[2025-11-25 10:37:13.714] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:37:13.714] [che] [debug] autosave no need
+[2025-11-25 10:38:13.742] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:38:13.742] [che] [debug] autosave no need
+[2025-11-25 10:39:13.726] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:39:13.730] [che] [debug] autosave no need
+[2025-11-25 10:40:13.774] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:40:13.774] [che] [debug] autosave no need
+[2025-11-25 10:41:13.684] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:41:13.684] [che] [debug] autosave no need
+[2025-11-25 10:42:13.678] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:42:13.678] [che] [debug] autosave no need
+[2025-11-25 10:43:13.738] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:43:13.738] [che] [debug] autosave no need
+[2025-11-25 10:44:13.777] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:44:13.777] [che] [debug] autosave no need
+[2025-11-25 10:45:13.702] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:45:13.702] [che] [debug] autosave no need
+[2025-11-25 10:46:13.686] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:46:13.687] [che] [debug] autosave no need
+[2025-11-25 10:47:13.702] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:47:13.702] [che] [debug] autosave no need
+[2025-11-25 10:48:13.675] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:48:13.675] [che] [debug] autosave no need
+[2025-11-25 10:49:13.674] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:49:13.674] [che] [debug] autosave no need
+[2025-11-25 10:49:36.960] [che] [debug] Node 24 > about
+[2025-11-25 10:50:13.676] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:50:13.676] [che] [debug] autosave no need
+[2025-11-25 10:51:13.686] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:51:13.686] [che] [debug] autosave no need
+[2025-11-25 10:52:13.776] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:52:13.776] [che] [debug] autosave no need
+[2025-11-25 10:53:13.740] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:53:13.741] [che] [debug] autosave no need
+[2025-11-25 10:54:13.676] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:54:13.676] [che] [debug] autosave no need
+[2025-11-25 10:55:13.678] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:55:13.678] [che] [debug] autosave no need
+[2025-11-25 10:56:13.774] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:56:13.778] [che] [debug] autosave no need
+[2025-11-25 10:57:13.678] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:57:13.678] [che] [debug] autosave no need
+[2025-11-25 10:58:13.774] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:58:13.774] [che] [debug] autosave no need
+[2025-11-25 10:59:13.774] [che] [debug] autoSaveCounter->0
+[2025-11-25 10:59:13.774] [che] [debug] autosave no need
+[2025-11-25 14:06:26.426] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:06:26.459] [che] [debug] autosave no need
+[2025-11-25 14:07:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:07:26.492] [che] [debug] autosave no need
+[2025-11-25 14:08:26.412] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:08:26.412] [che] [debug] autosave no need
+[2025-11-25 14:09:26.416] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:09:26.416] [che] [debug] autosave no need
+[2025-11-25 14:10:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:10:26.492] [che] [debug] autosave no need
+[2025-11-25 14:11:26.408] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:11:26.408] [che] [debug] autosave no need
+[2025-11-25 14:12:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:12:26.493] [che] [debug] autosave no need
+[2025-11-25 14:13:26.404] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:13:26.404] [che] [debug] autosave no need
+[2025-11-25 14:14:26.420] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:14:26.420] [che] [debug] autosave no need
+[2025-11-25 14:15:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:15:26.492] [che] [debug] autosave no need
+[2025-11-25 14:16:26.451] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:16:26.452] [che] [debug] autosave no need
+[2025-11-25 14:17:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:17:26.492] [che] [debug] autosave no need
+[2025-11-25 14:18:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:18:26.492] [che] [debug] autosave no need
+[2025-11-25 14:19:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:19:26.492] [che] [debug] autosave no need
+[2025-11-25 14:20:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:20:26.492] [che] [debug] autosave no need
+[2025-11-25 14:21:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:21:26.492] [che] [debug] autosave no need
+[2025-11-25 14:22:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:22:26.492] [che] [debug] autosave no need
+[2025-11-25 14:23:26.400] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:23:26.400] [che] [debug] autosave no need
+[2025-11-25 14:24:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:24:26.492] [che] [debug] autosave no need
+[2025-11-25 14:25:26.480] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:25:26.480] [che] [debug] autosave no need
+[2025-11-25 14:26:26.394] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:26:26.394] [che] [debug] autosave no need
+[2025-11-25 14:27:26.392] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:27:26.393] [che] [debug] autosave no need
+[2025-11-25 14:28:24.593] [che] [debug] Node 19 > dekut
+[2025-11-25 14:28:26.393] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:28:26.393] [che] [debug] autosave no need
+[2025-11-25 14:29:26.392] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:29:26.392] [che] [debug] autosave needed
+[2025-11-25 14:30:26.398] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:30:26.398] [che] [debug] autosave needed
+[2025-11-25 14:31:26.444] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:31:26.444] [che] [debug] autosave needed
+[2025-11-25 14:32:26.492] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:32:26.492] [che] [debug] autosave no need
+[2025-11-25 14:33:26.437] [che] [debug] autoSaveCounter->0
+[2025-11-25 14:33:26.437] [che] [debug] autosave no need

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Procaffinating Café</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Poppins", sans-serif;
+            background: #f5f3ef;
+            color: #3b2f2f;
+        }
+        header {
+            background: url('https://images.unsplash.com/photo-1509042239860-f550ce710b93') center/cover no-repeat;
+            height: 90vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            color: white;
+            text-shadow: 0 4px 10px rgba(0,0,0,0.7);
+        }
+        header h1 {
+            font-size: 4rem;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.4rem;
+            max-width: 600px;
+            text-align: center;
+        }
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(0,0,0,0.7);
+            backdrop-filter: blur(5px);
+            padding: 15px 0;
+            text-align: center;
+            z-index: 1000;
+        }
+        nav a {
+            color: white;
+            margin: 0 20px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: 0.3s;
+        }
+        nav a:hover {
+            color: #dba46b;
+        }
+        section {
+            padding: 80px 15%;
+        }
+        #about h2, #menu h2, #contact h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        #about p {
+            font-size: 1.2rem;
+            line-height: 1.7;
+            text-align: center;
+        }
+        .menu-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 30px;
+        }
+        .menu-item {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .menu-item img {
+            width: 100%;
+            border-radius: 10px;
+            height: 150px;
+            object-fit: cover;
+        }
+        .menu-item h3 {
+            margin: 15px 0 10px;
+        }
+        .menu-item p {
+            font-size: 0.9rem;
+            color: #6b5c5c;
+        }
+        #contact form {
+            max-width: 500px;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+        }
+        #contact input, #contact textarea {
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+            font-size: 1rem;
+        }
+        #contact button {
+            padding: 15px;
+            background: #3b2f2f;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        #contact button:hover {
+            background: #dba46b;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #3b2f2f;
+            color: white;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#menu">Menu</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <header>
+        <h1>Procaffinating Café</h1>
+        <p>Where every cup sparks productivity — one sip at a time.</p>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Procaffinating Café is your cozy escape from the everyday rush — a space where creativity flows and great ideas begin with great coffee. We serve premium blends, artisan pastries, and a warm atmosphere perfect for work, study, or relaxation.</p>
+    </section>
+
+    <section id="menu">
+        <h2>Our Menu</h2>
+        <div class="menu-grid">
+            <div class="menu-item">
+                <img src="https://images.unsplash.com/photo-1511920170033-f8396924c348" />
+                <h3>Espresso</h3>
+                <p>Strong, bold, and energizing.</p>
+            </div>
+            <div class="menu-item">
+                <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93" />
+                <h3>Cappuccino</h3>
+                <p>Creamy blend of espresso and foam.</p>
+            </div>
+            <div class="menu-item">
+                <img src="https://images.unsplash.com/photo-1511920170033-f8396924c348" />
+                <h3>Mocha</h3>
+                <p>Chocolatey richness with a coffee kick.</p>
+            </div>
+            <div class="menu-item">
+                <img src="https://images.unsplash.com/photo-1504754524776-8f4f37790ca0" />
+                <h3>Latte</h3>
+                <p>A smooth, milky favorite.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form>
+            <input type="text" placeholder="Your Name" required />
+            <input type="email" placeholder="Your Email" required />
+            <textarea rows="5" placeholder="Your Message"></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        © 2025 Procaffinating Café — Brewed with passion.
+    </footer>
+</body>
+</html>
